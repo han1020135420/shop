@@ -1,0 +1,6 @@
+manman\pro\os\web\OsIndexController.class
+manman\pro\os\service\StorageService.class
+manman\pro\os\service\FileSystemStorageService.class
+manman\pro\os\Application.class
+manman\pro\os\config\ObjectStorageConfig.class
+manman\pro\os\web\OsStorageController.class
